@@ -10,3 +10,7 @@ Add this to pom.xml:
                     <version>5.10.0</version>
             </dependency>
     </dependencies>
+
+
+You can add Javadocs using the syntax in the example edu.upc.dsa.SimpleCalculator
+Generate Javadoc from Tools> Generate Javadoc and then select a destination and a name.
